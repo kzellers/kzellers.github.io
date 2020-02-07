@@ -2,122 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Hi, I'm Karen! I'm a recent graduate from the [University of California, Santa Cruz](https://www.ucsc.edu/). I currently reside in Seattle, where I work full time and volunteer with [5th Avenue Theatre](https://www.5thavenue.org/), [Pacific Northwest Ballet](https://www.pnb.org/), and a local Girl Scout troop. In my free time, I like to try new cooking recipes, read memoirs, and play the clarinet.   
 
 
-### Definition lists can be used with HTML syntax.
+# Projects 
+The following are team [projects](https://github.com/kzellers) that I contributed to:
+* Fit Slug Web Application
+* UCSC Bathroom Finder App
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Links
+* Watch my [graduation speech](https://video.ibm.com/recorded/122399486) \[28:51\]
+* See what I'm [reading](https://www.goodreads.com/user/show/24391629-karen) 
+* Sign up to receive my [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSfdzalzs_v3QADIekNwOStDfquwVXyrr9jZHOrlJmmsuCWDoQ/viewform?usp=send_form)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+# Miscellaneous
+* My [pronouns](https://en.wikipedia.org/wiki/Preferred_gender_pronoun) are she/her/hers
+* I received the title of [Yelp Elite](https://www.yelp.com/user_details?userid=qXg22kSP2crhrWRlUk-rQw) in 2019 and 2020
+* I speak English, intermediate Spanish, and basic Japanese
+
