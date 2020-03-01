@@ -7,10 +7,8 @@ layout: default
 Hi, I'm Karen! I'm a recent graduate from the [University of California, Santa Cruz](https://www.ucsc.edu/). I currently reside in Seattle, where I work full time and volunteer with [5th Avenue Theatre](https://www.5thavenue.org/), [Pacific Northwest Ballet](https://www.pnb.org/), and a local Girl Scout troop. In my free time, I like to try new cooking recipes, read memoirs, and play the clarinet.   
 
 
-# Projects 
-The following are team [projects](https://github.com/kzellers) that I contributed to:
-* Fit Slug Web Application
-* UCSC Bathroom Finder App
+# Projects
+All of my personal projects are listed on my [Github](https://github.com/kzellers).  
 
 # Links
 * Watch my [graduation speech](https://video.ibm.com/recorded/122399486) \[28:51\]
